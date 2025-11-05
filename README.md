@@ -12,6 +12,7 @@ Current Version: Instruction Decoder V.1
   - STRC: 0011 (Store value in C at address)
 
 ## Ram Op code
+16 bytes of storage
 - XX    XXXX      XXXXXXXX
 - r/w, Address, value to be stored (Null of reading)/n
   - read:  10
