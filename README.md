@@ -7,10 +7,10 @@ The most up to date version of this project is CPU V.1. Functionality includes:
 Current Version: Instruction Decoder V.1
 - XXXX XXXX
 - OP Code, address
-  - LDRA: 0001 (Load Value in address into reg A)
-  - LDRB: 0010 (Load Value at address into reg B)
-  - STRC: 0011 (Store value in C at address)
-  - ADD: 0100 (Adds the values of A and B, stores in C)
+  - LDRA: 0000 (Load Value in address into reg A)
+  - LDRB: 0001 (Load Value at address into reg B)
+  - STRC: 0010 (Store value in C at address)
+  - ADD: 0011 (Adds the values of A and B, stores in C)
 
 ## Ram Op code
 16 bytes of storage
