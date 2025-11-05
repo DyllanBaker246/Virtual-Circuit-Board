@@ -10,6 +10,7 @@ Current Version: Instruction Decoder V.1
   - LDRA: 0001 (Load Value in address into reg A)
   - LDRB: 0010 (Load Value at address into reg B)
   - STRC: 0011 (Store value in C at address)
+  - ADD: 0100 (Adds the values of A and B, stores in C)
 
 ## Ram Op code
 16 bytes of storage
