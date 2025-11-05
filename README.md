@@ -1,8 +1,8 @@
 # Virtual-Circuit-Board
 Building a CPU
 
-#CPU OP Code
-- XXXX XXXX
+# CPU OP Code
++ XXXX XXXX
 - OP Code, address
 - LDRA: 0001 (Load Value in address into reg A)
 - LDRB: 0010 (Load Value at address into reg B)
