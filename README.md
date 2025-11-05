@@ -1,7 +1,12 @@
 # Virtual-Circuit-Board
 Building a CPU
+Current Version: CPU V.1
+Functionality includes:
+- adding two values from memory
+- storing a value to memory
 
 ## CPU OP Code
+Current Version: Instruction Decoder V.1
 - XXXX XXXX
 - OP Code, address
   - LDRA: 0001 (Load Value in address into reg A)
