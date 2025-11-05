@@ -1,7 +1,5 @@
 # Virtual-Circuit-Board
-Building a CPU
-Current Version: CPU V.1
-Functionality includes:
+The most up to date version of this project is CPU V.1. Functionality includes:
 - adding two values from memory
 - storing a value to memory
 
